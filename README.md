@@ -17,11 +17,11 @@
 All links are carefully validated and styled for accessibility and ease of use.
 
 </p>
-
-📍 Real-Time Navigation via Location Hyperlink
+<br>
+<h5>📍 Real-Time Navigation via Location Hyperlink</h5>
 A dynamic hyperlink is integrated to direct users to my current or preferred location using Google Maps. This enhances trust and professionalism, especially for clients and recruiters.
 
-💡 Code Effectiveness
+<h5>💡 Code Effectiveness</h5>
 ✅ Responsive Design: Adapts smoothly to all screen sizes — desktop, tablet, and mobile.
 
 ✅ Clean Codebase: Modular, readable, and easy to maintain or scale.
@@ -32,24 +32,24 @@ A dynamic hyperlink is integrated to direct users to my current or preferred loc
 
 ✅ No Frameworks: Built from scratch without libraries or frameworks — a true test of vanilla web skills!
 
-🚀 Getting Started
+<h5>🚀 Getting Started</h5>
 Clone the Repository
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/your-portfolio.git
-cd your-portfolio
+git clone https://github.com/Swarangii/Portfolio.git
+cd Portfolio
 Open in Browser
 Just open the index.html file in any modern browser.
 
-📌 Tech Stack
+<h5>📌 Tech Stack</h5>
 HTML5
 
 CSS3
 
 JavaScript (Vanilla)
 
-🎯 Purpose
+<h5>🎯 Purpose</h5>
 This project showcases:
 
 My frontend development skills
@@ -58,11 +58,11 @@ The ability to create interactive, real-world websites from scratch
 
 A personalized digital identity to share with peers, professionals, and potential employers
 
-📷 Preview
-(Insert screenshot or preview GIF here if available)
+<h2>📷 Preview</h2>
+<a href="https://portfolio-swarangi-singh-yadavs-projects.vercel.app/">Link</a>
 
 🙌 Let's Connect!
 Feel free to explore the live version of my portfolio and reach out!
 
 🌍 Live Site
-📧 Email: you@example.com
+📧 Email: swarangiyadav557@gmail.com
